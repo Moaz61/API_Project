@@ -7,7 +7,7 @@ using DomainLayer.Contracts;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Data;
 using System.Text.Json;
-using DomainLayer.Models;
+using DomainLayer.Models.ProductModule;
 
 namespace Persistence
 {
